@@ -9,8 +9,8 @@ A plugin that uploads images to Imgur.
 
 ## Setup
 
-* Register an imgur app [here](https://api.imgur.com/oauth2/addclient), make sure you fill in the callback URL properly. It should be `http://yourforum.com/admin/plugins/imgur/oauth` adjust based on your forum url.
-[![](http://i.imgur.com/neAKeeR.png)](http://i.imgur.com/neAKeeR.png)
+* Register an imgur app [here](https://api.imgur.com/oauth2/addclient), make sure you fill in the callback URL properly. It should be `http://yourforum.com/admin/plugins/imgur` adjust based on your forum url.
+[![](http://i.imgur.com/6HbvPxn.png)](http://i.imgur.com/6HbvPxn.png)
 
 * Once you register you will get a client ID and secret.
 [![](http://i.imgur.com/haE9jzj.png)](http://i.imgur.com/haE9jzj.png)
